@@ -1,0 +1,17 @@
+.gesture
+{
+    width: 180px;
+    font-size: 20px;
+}
+
+body{
+    background-color: burlywood;
+}
+
+#camera, #result
+{
+    height: 300px;
+    width: 400px;
+    border: 3px dashed;
+}
+
